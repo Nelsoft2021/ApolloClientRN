@@ -104,5 +104,4 @@ const ProductList: FC = () => {
     </SafeAreaView>
   );
 };
-
 export default ProductList;
